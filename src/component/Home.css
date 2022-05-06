@@ -1,0 +1,25 @@
+#main {
+    /* background-color: purple; */
+}
+
+#main > p{
+    text-align: left;
+    padding: 0% 98% 0% 2%;
+    color: white;
+    font-size: 30px;
+    background-color: purple;
+    position: fixed;
+}
+
+#words {
+    color: black;
+    padding: 5% 2%;
+    background-color: white;
+    text-align: left;
+}
+
+#inquisition, #candid, #rhetorical, #melodrama, #piecemeal, #through, #beautiful, #resource {
+    text-decoration: none;
+    color: black;
+}
+
