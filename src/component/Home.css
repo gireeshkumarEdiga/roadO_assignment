@@ -1,14 +1,21 @@
-#main {
-    /* background-color: purple; */
-}
+/* #main {
+    background-color: purple;
+} */
 
-#main > p{
+#main > #l > p{
     text-align: left;
     padding: 0% 98% 0% 2%;
     color: white;
     font-size: 30px;
-    background-color: purple;
     position: fixed;
+    background-color: purple;
+}
+
+#l {
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    background-color: purple;
 }
 
 #words {

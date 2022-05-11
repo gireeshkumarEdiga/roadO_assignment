@@ -5,7 +5,10 @@ import "./Home.css";
 export const Home = () => {
     return (
         <div id="main">
-            <p>Vocab</p>
+            <div id="l">
+                <p>Vocab</p>
+                <input type="text" />
+            </div>
             <div id="words">
                 <h3>Words List</h3>
                 <hr />
